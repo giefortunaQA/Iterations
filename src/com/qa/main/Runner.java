@@ -17,16 +17,16 @@ public class Runner {
 //		flow1.tenTimes();
 //		flow1.nTimes(1);
 		
-//		Coins buy1=new Coins();
-//		buy1.change(2.50, 50);
+		Coins buy1=new Coins();
+		buy1.change2(2.79, 35);
 		
-		Strings string1=new Strings();
+//		Strings string1=new Strings();
 //		string1.count("Hi. how many words are in this string?");
 //		string1.vertical("Is this message vertical");
 //		string1.reverseVertical("Is this message vertical");
 		
 //		string1.isInMessage("Hi my name is Gie", "Gie");
-		string1.isInMessage("Hi my name is Gie", "Nick");
+//		string1.isInMessage("Hi my name is Gie", "Nick");
 		
 	}
 }
